@@ -1,0 +1,96 @@
+{
+  "version": 1,
+  "base_track": "グレープフルーツ",
+  "base_artist": "カネコアヤノ",
+  "createdAt": "2026-02-08T14:33:33.133855Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "グレープフルーツ",
+      "artist": "Kaneko Ayano",
+      "has_synced": true,
+      "path": "select/01_グレープフルーツ_Kaneko_Ayano.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "グレープフルーツ",
+      "artist": "Kaneko Ayano",
+      "has_synced": true,
+      "path": "select/02_グレープフルーツ_Kaneko_Ayano.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Grapfruit [グレープフルーツ]",
+      "artist": "Maaya Sakamoto",
+      "has_synced": false,
+      "path": "select/03_Grapfruit_[グレープフルーツ]_Maaya_Sakamoto.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "グレープフルーツ",
+      "artist": "カネコアヤノ",
+      "has_synced": true,
+      "path": "select/04_グレープフルーツ_カネコアヤノ.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "グレープフルーツ",
+      "artist": "カネコアヤノ",
+      "has_synced": true,
+      "path": "select/05_グレープフルーツ_カネコアヤノ.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "グレープフルーツ・ムーン",
+      "artist": "GOING STEADY",
+      "has_synced": true,
+      "path": "select/06_グレープフルーツ・ムーン_GOING_STEADY.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "グレープフルーツ 2013 Live Ver.",
+      "artist": "Maaya Sakamoto",
+      "has_synced": true,
+      "path": "select/07_グレープフルーツ_2013_Live_Ver._Maaya_Sakamoto.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "グレープフルーツ",
+      "artist": "ayutthaya",
+      "has_synced": true,
+      "path": "select/08_グレープフルーツ_ayutthaya.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "グレープフルーツ",
+      "artist": "坂本真綾",
+      "has_synced": false,
+      "path": "select/09_グレープフルーツ_坂本真綾.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "グレープフルーツ 2013 Live Ver.",
+      "artist": "坂本真綾 Sakamoto Maya",
+      "has_synced": true,
+      "path": "select/10_グレープフルーツ_2013_Live_Ver._坂本真綾_Sakamoto_Maya.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "グレープフルーツ",
+      "artist": "カネコアヤノ",
+      "has_synced": false,
+      "path": "select/pl_01_グレープフルーツ_カネコアヤノ.txt"
+    }
+  ]
+}
